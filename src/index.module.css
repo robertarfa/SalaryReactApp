@@ -1,0 +1,41 @@
+.salaryContainer {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.grossSalary {
+  font-weight: bold;
+}
+
+table {
+  margin: 0 auto;
+  width: 0 auto;
+}
+
+.mainTitle {
+  text-align: center;
+  margin: 20px auto;
+}
+
+divValues:nth-child(1) {
+  background-color: yellow;
+}
+
+input {
+  text-align: center;
+  margin: 10px;
+  border-top: transparent;
+  border-left: transparent;
+  border-right: transparent;
+}
+
+input:focus {
+  outline: thin dotted;
+  outline: 0px auto -webkit-focus-ring-color;
+  outline-offset: 0px;
+  border-color: red;
+}
+
+.chartjs {
+  margin: 20px auto;
+}
