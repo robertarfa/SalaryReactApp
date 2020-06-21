@@ -1,3 +1,5 @@
+Click here to test the aplication: [https://salaryreactapp.netlify.app/](https://salaryreactapp.netlify.app/)
+
 ![](salary.gif)
 
 ## Available Scripts
